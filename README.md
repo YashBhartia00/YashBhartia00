@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there, I'm Yash - aka [YashBhartia00](yashbhartia.github.io) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
+### Hey there, I'm Yash - aka [YashBhartia00](https://yashbhartia00.github.io/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 26px> </h1>
 
 <h3> I am a Sophomore at BITS Goa </h3>
 
