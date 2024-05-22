@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 
  ---
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YashBhartia00&count_private=true&show_icons=true&theme=default" />
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=YashBhartia00&count_private=true&show_icons=true&theme=default" />
